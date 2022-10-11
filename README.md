@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack We Developement**
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 💬 Ask me about **React, Javascript, HTML, CSS**
 
