@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukesh Sahu</h1>
-<h3 align="center">Observant and intuitive problem-solver, aspiring MEARN developer with specialization in Frontend development . Passionate about building user-centric products by translating user requirements into technical solutions.</h3>
+<h3 align="center">Observant and intuitive problem-solver, aspiring Full Stack Frontend developer . Passionate about building user-centric products by translating user requirements into technical solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshsahu1997&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshsahu1997" /> </p>
 
