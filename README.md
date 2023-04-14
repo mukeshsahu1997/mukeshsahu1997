@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshsahu1997" alt="mukeshsahu1997" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack We Developement**
+- 🌱 I’m a **Frontend Developer**
 
 - 👨‍💻 All of my projects are available at [https://mukeshsahu1997.github.io/](https://mukeshsahu1997.github.io/)
 
-- 💬 Ask me about **React, Javascript, HTML, CSS**
+- 💬 Ask me about **React, Javascript, HTML, CSS, React**
 
-- 📫 How to reach me **sahumukesh095@gmail.com**
+- 📫 How to reach me **mukesh.s161997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
